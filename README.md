@@ -1,9 +1,12 @@
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/NgademinSikil/makefun-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/NgademinSikil/makefun-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 # Token Radar — token-radar-01 (make.fun)
 
 A static, offline dashboard that ranks pre-token DeFi protocols by implied
 launch value, with a concrete farm plan for every row. Built for the make.fun
-bounty **token-radar-01** ($1,325, closes 14 Dec 2026). Local-only entry:
-nothing here has been submitted, and no wallet or account was created.
+bounty **token-radar-01** ($1,325, closes 14 Dec 2026). Entered on make.fun's token-radar-01 bounty ($1,325, closes 14 Dec 2026).
 
 ## What it does
 
@@ -80,3 +83,7 @@ python3 -m http.server 8000 --directory out
 ## License
 
 MIT (see `LICENSE`).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ds1567x3&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
